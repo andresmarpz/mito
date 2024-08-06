@@ -1,0 +1,14 @@
+{
+  "name": "mito",
+  "version": "0.0.0",
+  "description": "Save, sync and share your platform secrets.",
+  "keywords": [
+    "secrets",
+    "platform",
+    "environments",
+    "cloud",
+    "open-source"
+  ],
+  "author": "andresmarpz",
+  "license": "MIT"
+}
