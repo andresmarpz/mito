@@ -11,6 +11,13 @@
   ],
   "author": "andresmarpz",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andresmarpz/mito"
+  },
+  "scripts": {
+    "dev": "turbo run dev --filter='./apps/*'"
+  },
   "dependencies": {
     "turbo": "^2.0.11"
   },
